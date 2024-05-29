@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">Hey dear your mood will gets off in just few moments after hearing me. your GitLab CI/CD pipeline has failed. Please check the logs for more details.</Say>
+</Response>
